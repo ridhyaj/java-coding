@@ -24,7 +24,7 @@ import java.util.Scanner;
 //        int temp;
 //        for(int i=0;i<n;i++){
 //            if(i==index){
-//                while (i<n){
+//                    while (i<n){
 //                    temp=array[i];
 //                    array[i++]=temp;
 //                }
