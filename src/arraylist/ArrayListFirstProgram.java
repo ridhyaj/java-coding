@@ -1,4 +1,4 @@
-package ridhya;
+package arraylist;
 
 import java.util.ArrayList;
 
